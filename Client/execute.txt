@@ -1,0 +1,4 @@
+help
+show
+countGreaterThanNumberOfParticipants 1
+printFieldAscendingGenre
